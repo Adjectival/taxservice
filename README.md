@@ -1,10 +1,9 @@
-# [:v: vue-boilerplate](https://adjectival.github.io/vue-boilerplate/)
+# [:v: vue-boilerplate](https://github.com/Adjectival/taxservice)
 
-Vue.js project with basic use examples and easy deployment to GitHub Pages. Fork and enjoy.
+Re-usable shell for bespoke client projects.
 
-# [Live demo](https://adjectival.github.io/vue-boilerplate/)
+# [Live demo](https://adjectival.github.io/taxservice/)
 
-## How To Build
 
 ### :wrench: 1. install dependencies
 ```npm install```
